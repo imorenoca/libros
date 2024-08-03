@@ -7,4 +7,6 @@ Había pensado realizarla con Angular y Spring Boot, me parece más interesante,
 
 Mi intención es desarrollar la parte del backend como una api Restful.  
 
-Ante la posibilidad de realizar las prácticas en Backend con Laravel y php, estoy realizando un curso de Laravel. Posibilidad de reenfocar el proyecto a Laravel cuando adquiera las bases necesarias.  
+Ante la posibilidad de realizar las prácticas en Backend con Laravel y php, estoy realizando un curso de Laravel. Posibilidad de reenfocar el proyecto a Laravel cuando adquiera las bases necesarias. 
+
+Este proyecto actualmente se encuentra parado, tras realizar las practicas conducentes al título de Desarrollo de Aplicaciones Web continuo estudiando Python, ya que el proyecto ha sido realizado como Analista de Datos.
